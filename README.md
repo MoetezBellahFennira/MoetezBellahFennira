@@ -94,5 +94,9 @@ Feel free to reach out if you have any interesting projects or opportunities.
 
 📬 Contact:
 Email: Moetezbellah.fennira@esprit.tn
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoetezBellahFennira&show_icons=true&locale=en&layout=compact" alt="Moetez bellah" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoetezBellahFennira&show_icons=true&locale=en" alt="Moetez bellah" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoetezBellahFennira&" alt="Moetez bellah" /></p>
 

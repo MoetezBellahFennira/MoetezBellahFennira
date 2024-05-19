@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @MoetezBellahFennira</h1> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MoetezBellahFennira&label=Profile%20views&color=0e75b6&style=flat" alt="MoetezBellahFennira" /> </p> <br>
 👀 Data Analyst | SQL | Python | R | Power BI
 
 🌱 I'm a data analyst with a passion for transforming raw data into actionable insights.

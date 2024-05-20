@@ -1,4 +1,4 @@
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79922&random=false&width=445&height=60&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40MoetezBellahFennira" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79922&random=false&width=445&height=60&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40MoetezBellahFennira" alt="Typing SVG" /> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoetezBellahFennira&label=Profile%20views&color=0e75b6&style=flat" alt="MoetezBellahFennira" /> </p> <br>
 
 👀 Data Analyst | SQL | Python | R | Power BI

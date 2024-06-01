@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/FenniraMoetezbellah/FenniraMoetezbellah/master/name.svg" alt="FenniraMoetezbellah" />
+  <img src="https://raw.githubusercontent.com/MoetezBellahFennira/MoetezBellahFennira/master/name.svg" alt="FenniraMoetezbellah" />
 </h1>
+
 
 <h3  align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F79922&random=false&width=445&height=60&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40MoetezBellahFennira" alt="Typing SVG" /></h3>
 <hr align="center">

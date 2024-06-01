@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/FenniraMoetezbellah/FenniraMoetezbellah/master/name.svg" alt="FenniraMoetezbellah" />
+</h1>
+
 <h3  align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F79922&random=false&width=445&height=60&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40MoetezBellahFennira" alt="Typing SVG" /></h3>
 <hr align="center">
 <p align="left" width="700px"> <img src="https://komarev.com/ghpvc/?username=MoetezBellahFennira&label=Profile%20views&color=0e75b6&style=flat" alt="MoetezBellahFennira" /> </p> 
@@ -22,6 +26,8 @@ Big Data Technologies (Hadoop, Spark)
 💞️💡 Let's Collaborate:
 I'm always open to collaborating on exciting projects and sharing knowledge with the community.
 Feel free to reach out if you have any interesting projects or opportunities.
+<h2>Connect with me </h3>
+   
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -96,6 +102,10 @@ Feel free to reach out if you have any interesting projects or opportunities.
 
 📬 Contact:
 Email: Moetezbellah.fennira@esprit.tn
+ <p>
+        <a href="https://www.linkedin.com/in/moetez-bellah-fennira/"><img src="https://img.shields.io/badge/-Fennira%20Moetez bellah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/moetez-bellah-fennira/" alt="LinkedIn Badge"></a> 
+<a href="https://www.youtube.com/@Footifizz/playlists"><img src="https://img.shields.io/badge/-FOOTIFIZZ-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
+   </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoetezBellahFennira&show_icons=true&locale=en&layout=compact" alt="Moetez bellah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoetezBellahFennira&show_icons=true&locale=en" alt="Moetez bellah" /></p>
